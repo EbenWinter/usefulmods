@@ -69,6 +69,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Observable](https://modrinth.com/mod/observable) | Unknown | Shows what's lagging your world/server by profiling (tile) entities. | tasgon | Server | none |
 | [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) | Unknown | Radium is an Unofficial Fork of CaffeineMC's "Lithium," made to work with Forge Mod Loader | Asek3 | Both | none |
 | [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | Magnesium | Rubidium is an Unofficial Fork of CaffeineMC's "Sodium", made to work with Forge Mod Loader | Asek3 | Client | none |
-| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none | 
+| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) | Unknown | Forge mod for rewriting the light engine to fix lighting performance and lighting errors | SpottedLeaf (PaperMC) | Server | none |
+| [FlyWheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) | Unknown | Flywheel provides an alternate, unified path for entity and tile entity rendering that takes advantage of GPU instancing. | jozufozu | Client | none |
 
 [![Home](https://i.imgur.com/zGuelkW.png)](/README.md)
