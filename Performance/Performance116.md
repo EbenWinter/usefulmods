@@ -84,6 +84,7 @@ Join our [discord](https://discord.gg/8nzHYhVUQS) or use the issues.<br><br>
 | [Spawner Bug Fix](https://www.curseforge.com/minecraft/mc-mods/spawner-fix) | Unknown | This addresses a bug which causes lag in mods that create custom spawners. | Lupicus | Client | none |
 | [Starlight](https://github.com/PaperMC/Starlight/releases) | Create | Mod for completely rewriting the vanilla light engine. | Spottedleaf (PaperMC) | Both | none |
 | [Starlight x Create](https://www.curseforge.com/minecraft/mc-mods/starlight-x-create) | Unknown | Mod for completely rewriting the vanilla light engine. | Spottedleaf(PaperMC), Create Patch by: AeiouEnigma, Curseforge Upload and 1.16 Maintained by SirOMGitsYOU | Both | none |
+| [FlyWheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) | Unknown | Flywheel provides an alternate, unified path for entity and tile entity rendering that takes advantage of GPU instancing. | jozufozu | Client | none |
 | [~~⠀⠀Cull Particles⠀⠀~~](https://www.curseforge.com/minecraft/mc-mods/cull-particles)[²](/README.md#-cull-particles-isnt-needed-anymore-in-newer-forge-versions-as-it-was-implemented-in-forge)| None | This mod increases fps by not rendering particles that the player can't see | tfarecnim | Client | none |
 
 
